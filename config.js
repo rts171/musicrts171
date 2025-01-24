@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "ODU3OTkxMTM5MTcxNzYyMTg3.GI7qKM.gtTJPP42Vm-VBPcJOQQabBx8xaeZG5oD0i4gPs",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://kpd:@cluster0.jlje5.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "postgresql://sbf_5dnc_user:qoKVLXvymbeEsI7Rp1XXiuRimvxBxZ6G@dpg-cu9f385ds78s739d0on0-a/sbf_5dnc",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
